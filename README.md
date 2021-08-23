@@ -27,3 +27,4 @@ The `stream_functions` Script is the code that should be named to import the ins
 
 Finally, we can see that `Variable Explorer` continues to work without any problem. All data displays continue to work with POO. And inside the `funtion load_time_series` are the instructions that previously could be displayed in the main Script. But now they are better ordered in a Script than functions only for the declaration of functions.
 
+![APIE3](https://user-images.githubusercontent.com/86130991/130495501-885cdf89-14d2-497d-9ebf-fb868370ef2c.png)
